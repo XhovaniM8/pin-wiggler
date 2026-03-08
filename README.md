@@ -1,5 +1,3 @@
-# 14-bit Pin Wiggler
-
 A 16-bit free-running counter for the **Arty S7-25** FPGA that drives all pins on Pmod headers JA and JB. Useful for testing that Pmod pins are electrically alive.
 
 ## How it works
